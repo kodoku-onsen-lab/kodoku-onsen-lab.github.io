@@ -47,12 +47,14 @@ a:hover {
     letter-spacing: 0.05em;
 }
 .catchcopy {
-    font-size: 1.5rem;
-    margin-top: 50px;
-    margin-bottom: 60px;
+    font-size: 2rem;
+    color: #5a3921;
+    line-height: 1.8;
+    margin-top: 80px;
+    margin-bottom: 100px;
 }
-.subtitle{
-    font-size: 0.5rem;
-    margin-top: 50px;
-    margin-bottom: 60px;
+.subtitle {
+    font-size: 0.95rem;
+    color: #8d7b68;
+    letter-spacing: 0.15em;
 }
