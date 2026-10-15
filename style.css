@@ -1,0 +1,42 @@
+body {
+    background-color: #f5f1e8;
+    color: #3a312a;
+
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 30px;
+
+    font-family:
+        "Yu Mincho",
+        "Hiragino Mincho ProN",
+        serif;
+
+    line-height: 1.9;
+}
+
+h1 {
+    color: #5a3921;
+
+    border-left: 8px solid #8a5a2b;
+    padding-left: 15px;
+}
+
+h2 {
+    color: #6a4a2f;
+
+    margin-top: 40px;
+    border-bottom: 1px solid #b8aa92;
+    padding-bottom: 5px;
+}
+
+p {
+    font-size: 18px;
+}
+
+a {
+    color: #6a4a2f;
+}
+
+a:hover {
+    color: #a15d2b;
+}
