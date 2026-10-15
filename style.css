@@ -41,7 +41,13 @@ a:hover {
     color: #a15d2b;
 }
 .latin {
+    font-size: 1.1rem;
+    color: #8d7b68;
     font-style: italic;
-    color: #8a7b69;
-    margin-top: -10px;
+    letter-spacing: 0.05em;
+}
+.catchcopy {
+    font-size: 1.5rem;
+    margin-top: 50px;
+    margin-bottom: 60px;
 }
